@@ -1,2 +1,6 @@
 /server/node_modules
+<<<<<<< HEAD
 /client/node_modules
+=======
+/task/node_modules
+>>>>>>> 1a1f5e0076ad42bb43dbba3e4c869775f7ac3426
